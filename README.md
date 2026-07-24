@@ -19,7 +19,7 @@ Resona--AI is a sophisticated full-stack AI-powered platform designed to provide
 ### Frontend
 - **Framework**: [React 19](https://react.dev/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) & [SASS](https://sass-lang.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Routing**: [React Router 7](https://reactrouter.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
